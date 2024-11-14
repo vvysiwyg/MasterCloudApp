@@ -1,0 +1,32 @@
+﻿@page "/vacancies"
+@rendermode InteractiveAuto
+
+<PageTitle>Вакансии</PageTitle>
+
+<div>
+    <p>@Message</p>
+    <button class="btn btn-outline-primary" @onclick="DoJob">Тест</button>
+    <iframe hidden="hidden" src="https://datalens.yandex/etz1ub5rmf9q1"
+            width="100%" height="600px"
+            frameborder="0" allowfullscreen></iframe>
+</div>
+
+@code
+{
+    public ApiService ApiService { get; set; }
+    public string Message { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        ApiService = new ApiService();
+        Message = string.Empty;
+        return base.OnInitializedAsync();
+    }
+
+    private async void DoJob()
+    {
+        string message = await ApiService.Start();
+        Message = message;
+    }
+}
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterCloudApp", "MasterCloudApp\MasterCloudApp\MasterCloudApp.csproj", "{E82C16C2-1D0F-4831-9FF4-024558A4EB8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterCloudApp.Client", "MasterCloudApp\MasterCloudApp.Client\MasterCloudApp.Client.csproj", "{75629D74-BB24-460F-942A-B42D713A13C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82C16C2-1D0F-4831-9FF4-024558A4EB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82C16C2-1D0F-4831-9FF4-024558A4EB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82C16C2-1D0F-4831-9FF4-024558A4EB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82C16C2-1D0F-4831-9FF4-024558A4EB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75629D74-BB24-460F-942A-B42D713A13C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75629D74-BB24-460F-942A-B42D713A13C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75629D74-BB24-460F-942A-B42D713A13C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75629D74-BB24-460F-942A-B42D713A13C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {943EB169-213A-4350-8C6C-BE56138DBC70}
+	EndGlobalSection
+EndGlobal
