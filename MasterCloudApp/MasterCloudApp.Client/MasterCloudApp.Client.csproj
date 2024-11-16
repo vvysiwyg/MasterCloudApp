@@ -11,6 +11,7 @@
   <ItemGroup>
     <PackageReference Include="AWSSDK.S3" Version="3.7.405.13" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
