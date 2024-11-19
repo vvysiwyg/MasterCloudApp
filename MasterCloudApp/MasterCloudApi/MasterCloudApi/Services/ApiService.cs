@@ -61,10 +61,12 @@ namespace MasterCloudApi.Services
 
         public async Task<string> SendVacanciesJson()
         {
-            var s3Client = new AmazonS3Client(@"YCAJE6aw0u8b0ZV9_prHlZ3eI", @"YCPzQHf_njUP2EDbYpHuOqTfxm1oE2Cpt3ms6NOh", new AmazonS3Config
-            {
-                ServiceURL = "https://s3.yandexcloud.net"
-            });
+            var s3Client = new AmazonS3Client(@"YCAJE6aw0u8b0ZV9_prHlZ3eI",
+                @"YCPzQHf_njUP2EDbYpHuOqTfxm1oE2Cpt3ms6NOh",
+                new AmazonS3Config
+                {
+                    ServiceURL = "https://s3.yandexcloud.net"
+                });
 
             var fileTransferUtility = new TransferUtility(s3Client);
             await fileTransferUtility.UploadAsync("data.json", "vvysiwyg-b");
@@ -72,7 +74,6 @@ namespace MasterCloudApi.Services
             return "Ok";
         }
 
-        // Метод для получения страницы вакансий
         private static async Task<JArray> GetPageAsync(int page, int perPage)
         {
             var client = new HttpClient();

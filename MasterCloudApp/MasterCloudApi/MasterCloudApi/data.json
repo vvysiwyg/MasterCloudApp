@@ -1,11 +1,51 @@
 [
   {
-    "Name": "Frontend-разработчик JS (React)",
+    "Name": "Frontend developer / Фронтенд разработчик (react.js)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
     "AreaName": "",
     "ExperienceName": ""
+  },
+  {
+    "Name": "Фронтенд-разработчик в компанию NEURO PULSE",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 400,
+    "SalaryCurrency": "USD",
+    "AreaName": "Ташкент",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Web-программист - стажер",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Backend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "USD",
+    "AreaName": "Ташкент",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend-разработчик в стартап",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Front-end developer (middle)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Алматы",
+    "ExperienceName": "От 3 до 6 лет"
   },
   {
     "Name": "Frontend-разработчик стажер",
@@ -16,7 +56,7 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Frontend Web-разработчик",
+    "Name": "Frontend-разработчик",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -32,12 +72,52 @@
     "ExperienceName": ""
   },
   {
+    "Name": "Middle Frontend Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 300000,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Астана",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
     "Name": "Frontend-разработчик",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 2700,
-    "SalaryCurrency": "BYR",
-    "AreaName": "Минск",
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend Developer в SuperApp",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Разработчик интерфейсов (frontend)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 115000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend-разработчик React",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Ростов-на-Дону",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик в лабораторию разработки СПО",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
   },
   {
     "Name": "Стажер/JS разработчик",
@@ -48,39 +128,15 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Стажер Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Волгоград",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend Developer (middle)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Стажер-программист ASP.NET (C#)",
+    "Name": "Front-end разработчик / Front-end developer",
     "AccreditedItEmployer": true,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
   },
   {
-    "Name": "IT Intern (Developer)",
+    "Name": "Frontend-разработчик JS (React)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -96,31 +152,207 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Junior Python Developer",
+    "Name": "React Frontend-Developer",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 65000,
+    "SalaryFrom": 150000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Таганрог",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Java Developer - Middle",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 12000000,
-    "SalaryCurrency": "UZS",
-    "AreaName": "Ташкент",
+    "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Front-end developer",
+    "Name": "Frontend-разработчик",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 800000,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Python Developer (Remote)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "React Front-End Developer (Frontend разработчик)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "IOS-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "React Developer B2C",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Начинающий программист (junior)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 70000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend Developer Junior",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Курган",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Backend-Developer Python (junior)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle Java Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle/Senior Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Пермь",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Frontend developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик (React)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Backend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 100000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Python-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Java разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик Middle / Middle+",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 100000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Екатеринбург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Middle Frontend developer - Next js",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 500000,
     "SalaryCurrency": "KZT",
     "AreaName": "Алматы",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Java-разработчик",
+    "Name": "Frontend Developer (Pixel Perfect)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 2500,
+    "SalaryCurrency": "USD",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Веб-разработчик стажер",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 40000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Казань",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend Developer (middle)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Backend разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 90000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Junior Java-программист",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик Junior+",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -136,7 +368,23 @@
     "ExperienceName": "Нет опыта"
   },
   {
-    "Name": "Middle Java Developer",
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 2700,
+    "SalaryCurrency": "BYR",
+    "AreaName": "Минск",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "IT Intern (Developer)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -144,9 +392,233 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Python-разработчик",
+    "Name": "Frontend Developer (React)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Python Developer",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 150000,
+    "SalaryFrom": 65000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Таганрог",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "C#/.NET-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Python-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Android-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Младший разработчик C#",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Казань",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Middle Python developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 120000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Начинающий (Junior) Программист/Стажер",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 40000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Программист frontend",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Front-end developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 800000,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Алматы",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Стажер-программист ASP.NET (C#)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend разработчик React",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Java-разработчик (Junior / Intern)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "IOS разработчик (middle)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "SQL-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 350000,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Алматы",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend разработчик (React)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Стажер-программист",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Backend Developer (Python)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 70000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Junior Golang разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Frontend-разработчик (фреймворк Svelte)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Стажер-программист Go/Golang",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Golang Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 75000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Казань",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "SQL-разработчик (Junior / Trainee)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Java-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Java разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 1000,
+    "SalaryCurrency": "EUR",
+    "AreaName": "Минск",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Frontend-разработчик JavaScript/ JavaScript Developer (React)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 100000,
     "SalaryCurrency": "RUR",
     "AreaName": "Санкт-Петербург",
     "ExperienceName": "От 1 года до 3 лет"
@@ -168,7 +640,79 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Специалист (Frontend-разработчик)",
+    "Name": "Junior+/Middle Frontend Developer (React, JS/TS)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 55000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Ростов-на-Дону",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "IOS разработчик (Swift)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Разработчик \"Картины по номерам\" (удаленная работа)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Golang developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Senior/Middle+ Frontend разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Python разработчик (middle)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior+ Python/Go разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 70000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "IOS-разработчик",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -177,6 +721,14 @@
   },
   {
     "Name": "Frontend-разработчик (React)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Golang-разработчик",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -184,7 +736,151 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Python developer",
+    "Name": "Unity developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior frontend-developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Java developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 80000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик Middle+ / Senior",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 150000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Екатеринбург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend developer (junior/middle)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend Разработчик (Стажёр) на React / React Native",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior/Junior+ Frontend Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 200000,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Астана",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Программист-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "KGS",
+    "AreaName": "Бишкек",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Embedded-разработчик (Rust)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle/Senior Frontend-разработчик (продуктовая разработка)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Разработчик Google Play | Unity",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior Java разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 80000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "JavaScript (React) Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Golang-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend developer (React)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 150000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Middle Frontend Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Golang Developer (Junior+)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -202,13 +898,13 @@
   {
     "Name": "Frontend-разработчик",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
   },
   {
-    "Name": "Middle Frontend Developer",
+    "Name": "Frontend-разработчик (React)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -216,12 +912,12 @@
     "ExperienceName": ""
   },
   {
-    "Name": "IOS-разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
+    "Name": "Frontend-разработчик (React)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 100000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
   },
   {
     "Name": "Frontend-разработчик (React)",
@@ -232,420 +928,20 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Java-разработчик (Junior / Intern)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Junior Full Stack разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 500,
-    "SalaryCurrency": "USD",
-    "AreaName": "Минск",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Стажер-программист Go/Golang",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Разработчик Frontend (React)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Java developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 80000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Java-разработчик (backend)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle React Разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Java разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 80000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Разработчик Python",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Мобильный разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend Developer (React)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Web-программист - стажер",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Python разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Java Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 35000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Middle/Senior разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 250000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Программист - технический архитектор 1С 8, 1С:ERP, 1C:КА",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 250000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Веб-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Младший программист C# (Junior C#)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Программист Python",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Младший программист-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 80000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик React (Middle)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend разработчик (React TypeScript)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Java Developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Golang-разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Директор по развитию бизнеса / Сhief business development officer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 2000,
-    "SalaryCurrency": "USD",
-    "AreaName": "Ташкент",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Front-end разработчик / Front-end developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Разработчик Django / Python",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 450,
-    "SalaryCurrency": "USD",
-    "AreaName": "Минск",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Иркутск",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend Developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend Разработчик (Стажёр) на React / React Native",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Python-разработчик (Junior - Middle)",
+    "Name": "Backend разработчик NodeJS",
     "AccreditedItEmployer": false,
     "SalaryFrom": 70000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Вологда",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend Developer (React)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Java Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Golang разработчик (Junior/Middle)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Программист/стажер",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 40000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Екатеринбург",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Junior Backend разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Unity-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 25000,
-    "SalaryCurrency": "RUR",
     "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Junior Golang разработчик",
+    "Name": "Junior Java Developer",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик (Vue.js)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Начинающий (Junior) Программист/Стажер",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 40000,
+    "SalaryFrom": 50000,
     "SalaryCurrency": "RUR",
     "AreaName": "Москва",
     "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Intern/Junior Full-stack Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 300,
-    "SalaryCurrency": "USD",
-    "AreaName": "Минск",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend developer (middle)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Java-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 400000,
-    "SalaryCurrency": "KZT",
-    "AreaName": "Астана",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Разработчик JavaScript/TypeScript",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle+ Frontend разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 3 до 6 лет"
   },
   {
     "Name": "Junior front-end developer",
@@ -656,7 +952,7 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Frontend разработчик",
+    "Name": "Разработчик С#",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -664,7 +960,7 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Frontend-разработчик (Портал \"Рамблер\")",
+    "Name": "Unity-разработчик",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -672,15 +968,79 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Unity разработчик (удалённая работа)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
+    "Name": "Junior Java Developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 70000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
+    "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Frontend Developer",
+    "Name": "Middle Java Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Младший разработчик/программист (it) без опыта",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 80000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Кузнецк",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Python-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle/Senior разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 250000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Python-разработчик (Junior)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 150000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Middle Frontend Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Python-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Екатеринбург",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Middle Frontend-разработчик (React)",
     "AccreditedItEmployer": true,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -688,23 +1048,7 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Python-developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 170000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик (EDR)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend developer (react)",
+    "Name": "Специалист (Frontend-разработчик)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -712,20 +1056,28 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Веб-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 130000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Team Lead / Unity Developer",
+    "Name": "Frontend-разработчик / инженер-проектировщик MES",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 3 до 6 лет"
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Junior верстальщик (Widget developer Team)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "SQL разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
   },
   {
     "Name": ".NET разработчик",
@@ -736,79 +1088,23 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Junior Frontend Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 35000,
+    "Name": "Junior GO Developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 70000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Псков",
+    "AreaName": "Москва",
     "ExperienceName": "Нет опыта"
   },
   {
-    "Name": "Middle Frontend разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "JavaScript (React) Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Unity (C#) Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "HTML верстальщик / Junior Frontend разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 45000,
+    "Name": "Middle frontend-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 180000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "От 1 года до 3 лет"
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
   },
   {
-    "Name": "Java-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Front разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Frontend-разработчик (Next.js)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Стажер в отдел Business Development",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Java-разработчик",
+    "Name": "Программист (Backend Developer)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -817,638 +1113,6 @@
   },
   {
     "Name": "Разработчик Frontend",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Разработчик iOS приложений",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик (React)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Стажер Веб-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 3000000,
-    "SalaryCurrency": "UZS",
-    "AreaName": "Ташкент",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Разработчик Python",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 100000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Новосибирск",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Java Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Android Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Разработчик Frontend",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Специлист (разработчик) по Google Таблицам (Google Sheets)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 70000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Программист Python / Разработчик Python",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Стажер Веб-программист / Backend в ИТ-компанию",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 20000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Тамбов",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Distribution Development Manager Mass Market",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Программист-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Frontend Developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Python developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик Vue",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 400,
-    "SalaryCurrency": "USD",
-    "AreaName": "Ташкент",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Фронтэнд разработчик (ReactJS)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 40000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Барнаул",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Java-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 80000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Петрозаводск",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик (React Native)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 120000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Разработчик C++",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Программист Python (Django, FastApi)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Backend Developer(Go/Python)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle backend developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Backend разработчик Go",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior React Разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Ростов-на-Дону",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Go разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend разработчик (React)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Backend разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Разработчик Backend Python",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 130000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "JAVA разработчик (junior +, middle)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Java Developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 70000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior Frontend Developer (React)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Java-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Java Developer Middle+/Senior",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 30000000,
-    "SalaryCurrency": "UZS",
-    "AreaName": "Ташкент",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Frontend-разработчик React.js",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 120000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior/Junior+ Frontend Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "KZT",
-    "AreaName": "Астана",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend разработчик / HTML-верстальщик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Android-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Красноярск",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Android-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик React Native",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Программист-стажер С++",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Frontend Developer React",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend Developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 100000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Элиста",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend разработчик (Junior)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "IOS developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Frontend-разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 160000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Казань",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "IOS Developer (Middle)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle/Senior FrontEnd developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Верстальщик / Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 40000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик (Middle)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 100000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик (React)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Стажер-программист",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 58000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "IOS-разработчик / iOS Developer (Swift)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 2000,
-    "SalaryCurrency": "USD",
-    "AreaName": "Тбилиси",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Middle Frontend developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 3 до 6 лет"
-  },
-  {
-    "Name": "Frontend-разработчик (React)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Web-программист",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 70000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Junior Java-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Екатеринбург",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Middle+/Senior Frontend Developer в команду UI-Kit",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Junior Front-End Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Frontend разработчик (Threat Intelligence)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle frontend developer",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle C# .NET Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle+ frontend developer React",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "IOS-разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Middle Golang Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "IOS-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 60000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Красноярск",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Frontend-разработчик (Html, JavaScript)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 70000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "React Front-End Developer (Frontend разработчик)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Программист",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 125000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Томск",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Младший инженер-программист (стажер)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "",
-    "AreaName": "",
-    "ExperienceName": ""
-  },
-  {
-    "Name": "Инженер-программист (станки с ЧПУ)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior+ Python/Go разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 70000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Санкт-Петербург",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Разработчик \"Картины по номерам\" (удаленная работа)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -1464,12 +1128,340 @@
     "ExperienceName": "Нет опыта"
   },
   {
-    "Name": "Frontend developer (React/crypto)",
+    "Name": "Middle React Разработчик",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 2000,
-    "SalaryCurrency": "USD",
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "HTML верстальщик / Junior Frontend разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 45000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Программист / Веб-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 80000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Golang-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Backend-разработчик(middle)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 130000,
+    "SalaryCurrency": "RUR",
     "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Младший программист C# (Junior C#)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Frontend-разработчик React (Middle)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle Java разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Разработчик Python",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Самара",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Программист Python",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 200000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Middle Java developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Java-разработчик (backend)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик (Vue.js)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 200000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Front разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Django Python Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle Frontend разработчик (React)",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Стажер-программист",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 58000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend Developer",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle+/Senior Frontend Developer в команду UI-Kit",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Web3 Middle Frontend / Fullstack Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Программист/стажер",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 40000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Екатеринбург",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Junior React Разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Ростов-на-Дону",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Junior React Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Нижний Новгород",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик для Программно-Аппаратного Комплекса",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Начинающий программист С# в офис",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Краснодар",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "SQL разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 80000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Санкт-Петербург",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Java-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 400000,
+    "SalaryCurrency": "KZT",
+    "AreaName": "Астана",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "Системный программист",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 2500,
+    "SalaryCurrency": "BYR",
+    "AreaName": "Гродно",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Стажер Веб-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 3000000,
+    "SalaryCurrency": "UZS",
+    "AreaName": "Ташкент",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Иркутск",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Junior Frontend-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 35000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Team Lead / Unity Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "IOS-разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Разработчик сайтов Tilda",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 30000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Казань",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Unity-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 25000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Разработчик Python",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 100000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Новосибирск",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "C#/.NET-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 1000,
+    "SalaryCurrency": "BYR",
+    "AreaName": "Брест",
+    "ExperienceName": "От 1 года до 3 лет"
+  },
+  {
+    "Name": "Junior Frontend Developer React",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 60000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "Нет опыта"
+  },
+  {
+    "Name": "Junior Java-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Middle Frontend developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 200000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
   },
   {
     "Name": "Python разработчик",
@@ -1480,15 +1472,15 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Middle frontend developer",
+    "Name": "IOS-разработчик / iOS Developer (Swift)",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
+    "SalaryFrom": 2000,
+    "SalaryCurrency": "USD",
+    "AreaName": "Тбилиси",
     "ExperienceName": "От 3 до 6 лет"
   },
   {
-    "Name": "Frontend-разработчик",
+    "Name": "Frontend-разработчик (EDR)",
     "AccreditedItEmployer": true,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -1496,31 +1488,47 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Junior JS/TS Developer",
+    "Name": "JavaScript Developer (PixiJS)",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "UZS",
-    "AreaName": "Ташкент",
+    "SalaryFrom": 150000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
+    "ExperienceName": "От 3 до 6 лет"
+  },
+  {
+    "Name": "IOS Developer",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 150000,
+    "SalaryCurrency": "RUR",
+    "AreaName": "Москва",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Junior Game Developer",
-    "AccreditedItEmployer": true,
+    "Name": "Frontend Developer",
+    "AccreditedItEmployer": false,
     "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Старший PHP-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 470000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Томск",
-    "ExperienceName": "Нет опыта"
+    "AreaName": "Москва",
+    "ExperienceName": "Более 6 лет"
   },
   {
     "Name": "Ведущий фронтенд-разработчик React / Frontend React Developer (Senior)",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 280000,
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 270000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
+    "AreaName": "Нижний Новгород",
     "ExperienceName": "От 3 до 6 лет"
   },
   {
-    "Name": "Android developer",
+    "Name": "Junior Front-End Developer",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -1528,47 +1536,15 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Программист Python",
+    "Name": "Python developer",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
+    "SalaryFrom": 170000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Junior Golang разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 50000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
+    "AreaName": "Санкт-Петербург",
     "ExperienceName": "От 1 года до 3 лет"
   },
   {
-    "Name": "Стажер-разработчик",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "Нет опыта"
-  },
-  {
-    "Name": "Junior Developer",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 200000,
-    "SalaryCurrency": "KZT",
-    "AreaName": "Алматы",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Junior разработчик Python/Стажер (удаленно)",
-    "AccreditedItEmployer": false,
-    "SalaryFrom": 0,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
-    "ExperienceName": "От 1 года до 3 лет"
-  },
-  {
-    "Name": "Frontend (Vue.js) разработчик",
+    "Name": "Разработчик JavaScript (Junior+)",
     "AccreditedItEmployer": true,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -1576,7 +1552,15 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Brands Business Developer (Специалист по брендам)",
+    "Name": "Младший разработчик",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend-разработчик (UI-Kit)",
     "AccreditedItEmployer": false,
     "SalaryFrom": 0,
     "SalaryCurrency": "",
@@ -1584,19 +1568,35 @@
     "ExperienceName": ""
   },
   {
-    "Name": "Интерн / Начинающий Frontend разработчик",
-    "AccreditedItEmployer": true,
-    "SalaryFrom": 40000,
+    "Name": "Веб-разработчик",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 50000,
     "SalaryCurrency": "RUR",
-    "AreaName": "Москва",
+    "AreaName": "Санкт-Петербург",
     "ExperienceName": "Нет опыта"
   },
   {
-    "Name": "Программист / разработчик C# (junior or middle)",
+    "Name": "Frontend разработчик (React TypeScript)",
     "AccreditedItEmployer": false,
-    "SalaryFrom": 120000,
-    "SalaryCurrency": "RUR",
-    "AreaName": "Екатеринбург",
-    "ExperienceName": "От 1 года до 3 лет"
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Разработчик JavaScript/TypeScript",
+    "AccreditedItEmployer": true,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
+  },
+  {
+    "Name": "Frontend developer (middle +/senior)",
+    "AccreditedItEmployer": false,
+    "SalaryFrom": 0,
+    "SalaryCurrency": "",
+    "AreaName": "",
+    "ExperienceName": ""
   }
 ]
